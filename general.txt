@@ -1,0 +1,5 @@
+setspeed 5 rSPD
+settime 5 rTME
+setweight 60 rWGT
+setgrade 1 rGRD
+calmet r0
